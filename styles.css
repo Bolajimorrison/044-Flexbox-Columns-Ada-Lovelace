@@ -1,0 +1,45 @@
+
+.title{
+   background:black;
+    display:flex;
+    Justify-content :space-between;
+    background-color:grey;
+color:white;
+padding:25px;
+}
+
+
+.left{
+   background:black;
+    display:flex;
+    Justify-content :space-between;
+    background-color:pink;
+color:white;
+ 
+  display: flex;
+  justify-content: flex-end;
+
+padding:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    max-height: 400px;
+}
